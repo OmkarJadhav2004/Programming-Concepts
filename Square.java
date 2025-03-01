@@ -1,0 +1,10 @@
+package Marvellous.Infosystems;
+public class Square
+{
+    public float SquareArea(float Side)
+    {
+        return Side*Side;
+    }
+}
+// javac -d . Square.java
+//Do not execute this code directly
